@@ -1,0 +1,163 @@
+@media screen and (max-width: 600px){
+        
+    body{
+        display: flex;
+    }
+    
+    
+}
+.div-1{
+    background-image: url(bg.jpg);
+border-radius: 5px;    
+
+
+}
+body{
+    background-image: url(bg.jpg);
+}
+input{
+    border-radius: 20px;
+    height: 30px;
+    width: 200px;
+margin-left: 30px;
+    margin-top: 10px;
+cursor: pointer;
+}
+input:hover{
+    background-color: rgb(179, 179, 179);
+}
+.btn-h{
+    width: 50px;
+    text-decoration: 0px;
+    align-items: center;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+.btn-h:hover{
+    background-color: rgb(179, 179, 179);
+    cursor: pointer;
+}
+.profile{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-left: 330px;
+    border: 2px solid white;
+    position: absolute;
+    top: 15px;
+cursor: pointer;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 5px;
+    top: 15px;
+}
+.btn-l{
+    width: 70px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 1250px;
+    margin-top: -25px;
+        background-image: url(bg.jpg);
+ cursor: pointer;   
+}
+.left-side-bar{
+    width: 350px;
+    height: 530px;
+    
+    cursor: pointer;
+    
+        background-image: url(bg.jpg);
+    position: fixed;
+    top: 100px;
+    left: 20px;
+    font-size: 35px;
+    overflow-y: auto;
+    
+padding-left: 20px;
+}
+*{
+    
+    color: black;
+}
+.profile-1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 450px;
+    border: 2px solid white;
+    position: absolute;
+    top: 100 px;
+    
+}
+.inp-2{
+    border-radius: 20px;
+    height: 40px;
+    width: 500px;
+    margin-left: 520px;
+    margin-top: 20px;
+    position: absolute;
+    top: 110 px;
+}
+.story{
+    position: absolute;
+    top: 160 px;
+    margin-left: 1040px;
+    margin-top: 25px;
+    font-size: 15px;
+    .profile-2{
+        width: 50px;
+        height: 50px;
+        
+        margin-top: 50px;
+        margin-left: 450px;
+        
+        position: absolute;
+        top: 100 px;
+    }
+}
+.story-1{
+    position: absolute;
+    top: 160 px;
+    margin-left: 1040px;
+    margin-top: 25px;
+    font-size: 15px;
+}
+.post{
+   width: 620px;
+      height: 450px;
+    overflow-y: scroll; 
+    margin-top: 100px;
+    margin-left: 450px;
+    position: absolute;
+    top: 100 px;
+    position: fixed;
+ 
+}
+.main{
+    cursor: pointer;
+}
+h1{ 
+    top: 160 px;
+    margin-left: 1150px;
+    margin-top: 25px;
+    font-size: 30px;
+
+}
+.Sponserd{ 
+    top: 160 px;
+    margin-left: 1100px;
+    margin-top: 25px;
+    font-size: 30px;
+overflow-y: scroll;
+}
+.last{
+    width: 200px;
+    height: 800px;
+    
+        
+}

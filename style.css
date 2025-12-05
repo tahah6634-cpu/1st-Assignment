@@ -1,0 +1,61 @@
+*{
+    font-family: 'poppins' , sans-serif;
+    background-color: lightgray;
+}
+nav{
+    display: flex;
+border: 2px;
+background-color: rgb(18, 17, 17);
+padding: 5px 5%;
+}
+.logo{
+    width: 70;
+    text-align: left;
+
+
+}
+a{
+    width: 80px;
+    margin-right: 5px;
+    display:flex;
+    text-align: center;
+
+}
+.nav-left{
+    
+}
+input-function{
+
+    width: 350;
+    border-radius: 20px;
+    display: flex;
+    background: transparent;
+    outline: none;
+    border: 0;
+color: white;
+}
+.profile {
+    margin-left: 100%;
+    border-radius: 50%;
+margin-right: 100%;
+}
+.btn1{
+    cursor: pointer;
+    width: 80%;
+    margin-right: 20px;
+    display:flex;
+    text-align: center;   
+}
+.btn1:hover{
+    color: lightgray;
+}
+li{
+    color: white;
+}
+button{
+   cursor: pointer;
+ 
+    margin-right: 20px;
+    display:flex;
+ 
+}
